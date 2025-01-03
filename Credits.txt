@@ -1,0 +1,19 @@
+For the potion, eating, monster, and door sound effects
+	https://opengameart.org/content/rpg-sound-pack
+For the font
+	https://www.fontspace.com/lady-radical-2-font-f28279
+For the parallax
+	https://enjl.itch.io/tileset-dark-halls
+For the enemy sprites and animations
+	https://luizmelo.itch.io/monsters-creatures-fantasy
+For the exit door
+	https://aekae13.itch.io/16x16-dungeon-walls-reconfig?download
+For the background music
+	Headless Horseman by Alexander Nakarada | https://www.serpentsoundstudios.com
+	Music promoted by https://www.free-stock-music.com
+	Attribution 4.0 International (CC BY 4.0)
+	https://creativecommons.org/licenses/by/4.0/
+For the wolf sound effect
+	https://www.freesoundeffects.com/free-sounds/wolf-10043/
+For the Scavenger's sprite sheet, sprite randomizer, mapExit script, and help on various other scripts
+	James Stewart - Southern Arkansas University
